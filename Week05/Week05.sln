@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoodDemo", "MoodDemo\MoodDemo.csproj", "{FCFEE043-DB58-4D1B-AC9D-D61529E678F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFoodDemo", "FastFoodDemo\FastFoodDemo.csproj", "{35CFC30A-0A91-4B6F-A8AC-6372EF536939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeDemo", "ShapeDemo\ShapeDemo.csproj", "{3353754A-B9EE-420C-8097-4C2ED4CE23D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCFEE043-DB58-4D1B-AC9D-D61529E678F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCFEE043-DB58-4D1B-AC9D-D61529E678F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCFEE043-DB58-4D1B-AC9D-D61529E678F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCFEE043-DB58-4D1B-AC9D-D61529E678F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CFC30A-0A91-4B6F-A8AC-6372EF536939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CFC30A-0A91-4B6F-A8AC-6372EF536939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CFC30A-0A91-4B6F-A8AC-6372EF536939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CFC30A-0A91-4B6F-A8AC-6372EF536939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3353754A-B9EE-420C-8097-4C2ED4CE23D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3353754A-B9EE-420C-8097-4C2ED4CE23D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3353754A-B9EE-420C-8097-4C2ED4CE23D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3353754A-B9EE-420C-8097-4C2ED4CE23D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82D1B90D-0092-4AC4-AC7C-52F2E99A8A80}
+	EndGlobalSection
+EndGlobal
